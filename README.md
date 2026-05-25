@@ -97,7 +97,7 @@ python annotation/ai_annotator.py
 
 ## Configuration
 
-廣東話：You need to add your own OpenAI API key before running the pipeline or annotation scripts.
+You need to add your own OpenAI API key before running the pipeline or annotation scripts.
 
 ```python
 # In rag_pipeline.py and ai_annotator.py
