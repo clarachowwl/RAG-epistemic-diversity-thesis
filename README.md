@@ -119,7 +119,7 @@ OPENAI_API_KEY = "your-openai-api-key-here"
 If you use this code, please cite:
 
 ```
-[Author]. (2026). Retrieval Depth and Epistemic Diversity in 
+Clara C. (2026). Retrieval Depth and Epistemic Diversity in 
 Cultural Heritage RAG Systems. Master's thesis, 
 University of Amsterdam.
 ```
